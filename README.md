@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的个人主页
 
-You can use the [editor on GitHub](https://github.com/RUI-PAN/panrui.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人信息：
+94年白羊男，江苏泰州人；上海立信会计学院金融系金融学学士，英国约克大学数学系金融工程硕士；量化金融从业者。
 
 ### Markdown
 
