@@ -1,29 +1,10 @@
 ## 欢迎来到我的个人主页
 
 ### 个人信息：
-94年白羊男，江苏泰州人；上海立信会计学院金融系金融学学士，英国约克大学数学系金融工程硕士；量化金融从业者。
+94年白羊男，江苏泰州人；上海立信会计学院金融系金融学学士，英国约克大学数学系金融工程硕士；量化金融从业者；爱读历史，喜欢踢球看球赌球，爱好21点&德扑。
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+因为主修金融数学和衍生品定价的缘故，曾是有效市场假说的忠实拥趸，后来发现在该思想指导下，如果不是交易衍生品，那么除了做些统计套利的研究外，做其他策略寸步难行。
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
